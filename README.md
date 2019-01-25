@@ -10,7 +10,7 @@ This github group is for discussion and file sharing. You can post any problem y
 |---|---|
 |Xinglong Li | xinglong.li@stat.ubc.ca |
 |Lin Zhang | lin.zhang@stat.ubc.ca |
-| - | - |
+|Tiandian Chen | ctd1031@163.com |
 | - | - |
 | - | - |
 | - | - |
