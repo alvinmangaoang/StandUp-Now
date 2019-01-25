@@ -1,4 +1,4 @@
-# StandUp-Now！
+# StandUp Now！
 
 
 Hello everyone, this term we will work together to analyze the data collected in the StandUp project and to see if there is any relationship in reduction in sitting time and motion pattern.
