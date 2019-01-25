@@ -10,4 +10,4 @@ This github group is for disgussion and file sharing. Please share your R codes 
 |---|---|
 |Xinglong Li | xinglong.li@stat.ubc.ca |
 |Lin Zhang | lin.zhang@stat.ubc.ca |
-| | |
+|-| - |
